@@ -10,7 +10,17 @@ Please use the [VBA Code](stock-checker-final.bas) to analyze the stocks for eac
 ### Screen Captures for Each Year
 Below you will see a screenshot for each year that was analyzed.
 
-* Year 2014
+Year 2014
 
-![year-2014-screenshot](2014-multi-yr-stock-data.png)
+![year-2014-screenshot](images/2014-multi-yr-stock-data.png)
+
+
+Year 2015
+
+![year-2015-screenshot](images/2015-multi-yr-stock-data.png)
+
+
+Year 2016
+
+![year-2016-screenshot](images/2016-multi-yr-stock-data.png)
 
